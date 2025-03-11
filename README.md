@@ -57,7 +57,7 @@ JavaScript: Lógica para adicionar e exibir os contatos.
 ## Publicação na Vercel
 O projeto foi publicado na Vercel. Você pode acessá-lo através do link abaixo:
 
-- [Link do Projeto na Vercel]()
+- [Link do Projeto na Vercel](https://tarefa-m8.vercel.app)
 
 
 ## Referência
