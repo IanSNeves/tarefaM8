@@ -68,7 +68,8 @@ O projeto foi publicado na Vercel. Você pode acessá-lo através do link abaixo
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 Nome: Ian Neves
-Email: [seu-email@example.com]
+Email: iannvs.dev@gmail.com
+
 
 
 
